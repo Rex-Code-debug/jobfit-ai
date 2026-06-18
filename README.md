@@ -22,7 +22,7 @@ Reviewing hundreds of resumes manually is slow and error-prone. This agent acts 
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/Rex-Code-debug/autonomous-hiring-agent.git](https://github.com/Rex-Code-debug/autonomous-hiring-agent.git)
+    git clone https://github.com/Rex-Code-debug/autonomous-hiring-agent.git
     cd autonomous-hiring-agent
     ```
 
